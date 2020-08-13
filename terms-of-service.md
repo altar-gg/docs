@@ -58,3 +58,8 @@ THE SERVICES AND SUPPORT SERVICES ARE PROVIDED "AS IS" AND ALTAR DISCLAIMS ALL W
 
 ### Privacy
 Please visit https://altar.gg/docs/privacy-policy to understand how Altar collects and uses personal information.
+
+### Changes to this policy
+This policy was last updated on the date indicated above, but we suggest that you review it from time to time, as our platform and our business may change. As a result, at times it may be necessary for Altar to make changes to this policy. Altar reserves the right to update or modify this policy at any time and from time to time without prior notice. However, if we make changes that we believe will materially impact this policy, or your rights, we will promptly notify you of those changes. Your continued use of the platform after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised policy.
+
+**Note that this is not legal advice, and you should consult with counsel in the jurisdictions in which you operate if you have further questions about your specific use case.**
