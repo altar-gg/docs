@@ -1,4 +1,6 @@
-export const name = "Terms of Service";
+---
+title: Terms of Service
+---
 
 The following terms and conditions of service regulates and define the relationship between the
 AltarHost hereby referred to as the “Provider” and or “Company” and Clients, customers and or
