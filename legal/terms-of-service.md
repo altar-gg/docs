@@ -14,7 +14,7 @@ conditions stated in our Privacy Policy.
 AltarHost will ensure any and written information will be easy to understand in the event any
 doubt and or questions arise contact support immediately. AltarHost values all our clients, and
 as such your security safety and accountability is exceptionally important to us. All services
-provided by and supported my clients must be lawful, as such clients, customers and or one-time
+provided by and supported by clients must be lawful, as such clients, customers and or one-time
 users such as guests will have access to multiple forms of information, communication with the
 company and or posted material known as “Content” and or enough information to provide
 adequate sales and optimization for all needs of said clients.
@@ -224,15 +224,13 @@ complexity of the request this may be longer. Bumping the tickets will further d
 as we answer tickets based on their last reply. Spamming our ticket system may result in your
 ban from our support system and thus you will not be able to get support. We reserve the right
 to not provide support due to but not limited to abusive comments such as swearing, if this is a
-continued problem your services may be terminated without refund. We provide a livechat service
+continued problem your services may be terminated without refund. We provide a live support service
 that is for pre-sales only, If you have any technical queries or billing issues please create a ticket.
 All of our services are unmanaged unless elsewhere specified, due to this we are unable to
 provided extended support for configuration issues.
 
 ### Legal Notice
-(a) AltarHost is not in any way Affiliated with Mojang. AB. Nor should we be considered a
+1. AltarHost is not in any way Affiliated with Mojang. AB. Nor should we be considered a
 business endorsed by Mojang. AB.
-(b) Do not contact Mojang AB. In the event for failed payments and issues.
-(c) Support and or requests should be made to AltarHost
-(d) AltarHost is not affiliated with;
-Minecraft ®/TM & © 2009-2020 Mojang AB
+2. Do not contact Mojang AB. In the event for failed payments and issues.
+3. Support and or requests should be made to AltarHost
