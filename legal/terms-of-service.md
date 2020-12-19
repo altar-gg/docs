@@ -1,6 +1,6 @@
 ---
 title: Terms of Service
-location: /legal/terms-of-service/
+icon: gavel
 ---
 
 The following terms and conditions of service regulates and define the relationship between the
