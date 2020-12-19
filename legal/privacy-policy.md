@@ -1,4 +1,4 @@
 ---
 title: Privacy Policy
-location: legal/privacy-policy
+location: /legal/privacy-policy/
 ---
